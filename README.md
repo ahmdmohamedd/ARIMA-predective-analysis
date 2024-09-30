@@ -59,10 +59,3 @@ The final visualization shows the actual number of passengers and the forecasted
 
 - [Jason Brownlee](https://machinelearningmastery.com/) for providing the dataset and insights on time series analysis.
 ```
-
-### Instructions for Customization
-- **Replace `yourusername` and `your-repo-name`**: Update the repository URL to reflect your GitHub username and the name of your repository.
-- **Update the Image Path**: Make sure to provide the correct path to your visualization image in the Results section.
-- **Add Any Additional Sections**: You might want to include a section about future work or improvements, or anything else relevant to your project.
-
-Once you've made these adjustments, you can save the file as `README.md` in your GitHub repository. If you need further assistance, let me know!
